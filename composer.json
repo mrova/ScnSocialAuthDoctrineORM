@@ -17,7 +17,6 @@
     } ],
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zendframework": "2.*",
         "mrova/scn-social-auth": "1.*",
         "mrova/zfc-user-doctrine-orm": "0.*"
     },
